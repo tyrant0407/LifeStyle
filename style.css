@@ -129,7 +129,7 @@ html,body{
  color: rgb(34, 30, 255);
  font-weight: 600;
  border: none;
- border-radius: 25x;
+ border-radius: 5px;
 }
 .lowerLeft button,.lowerRight button{
  width: 30%;
@@ -139,7 +139,7 @@ html,body{
  color: rgb(34, 30, 255);
  font-weight: 600;
  border: none;
- border-radius: 25x;
+ border-radius: 5px;
 }
 .heroDiv .left{
     height: 100%;
